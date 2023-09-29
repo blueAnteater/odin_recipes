@@ -1,0 +1,25 @@
+* {
+    font-family: Monaco, "Lucida Console", "Courier New";
+    background-color: rgb(127, 9, 9);
+    color: white;
+}
+
+h1 {
+    font-size: 36 px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-position: inside;
+    list-style: none;
+}
+
+.subtitle, 
+h2 {
+    font-size: 24px;
+    font-weight: 500;
+}
